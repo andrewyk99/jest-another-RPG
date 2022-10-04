@@ -1,5 +1,5 @@
 # Jest Another RPG
-Jest Another RPG is a simple JavaScript games that has the user use the terminal to play a simple RPG (role playing game). The application makes use of Inquirer that gives the user their stats, their items, their health, and their enemy's health. The user then can choose whether to fight or use a potion when they like. The game will inform the player that they won if they defeat all the enemies or that they lost if their health reaches 0.
+Jest Another RPG is a simple JavaScript games that has the user use the terminal to play a simple RPG (role playing game). The application makes use of Inquirer that gives the user their stats, their items, their health, and their enemy's health. The user then can choose whether to fight or use a potion when they like. The game will inform the player that they won if they defeat all the enemies or that they lost if their health reaches 0. This is an Object-orientated programming (OOP) and a test-driven development (TDD) application.
 
 ## Features
 1. The user will be able to see their stats at the beginning of each round.
